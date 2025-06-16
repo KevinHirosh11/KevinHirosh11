@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinhirosh11&label=Profile%20views&color=0e75b6&style=flat" alt="kevinhirosh11" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark" alt="kevinhirosh11" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kevinhirosh11&theme=onedark" alt="kevinhirosh11" /></a> </p>
 
 - 🔭 I’m currently working on [BCI Campus](https://www.bci.lk/)
 
